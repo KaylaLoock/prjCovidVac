@@ -32,7 +32,7 @@ namespace prjCovidVac
                     "\nAllergies: " + A.getAllergies(x) +
                     "\nHad covid: " + A.getCovidPostive(x) +
                     "\nVaccine brand : " + A.getVaccine(x) + 
-                    "\n---------------------------------------------------"));
+                     "\n---------------------------------------------------"));
 
 
             }
