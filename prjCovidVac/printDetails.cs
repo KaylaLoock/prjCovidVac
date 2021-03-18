@@ -31,8 +31,8 @@ namespace prjCovidVac
                     "\nRefering Dr: " + A.getRefDr(x) +
                     "\nAllergies: " + A.getAllergies(x) +
                     "\nHad covid: " + A.getCovidPostive(x) +
-                    "\nVaccine brand : " + A.getVaccine(x));
-                Console.WriteLine("---------------------------------------------------");
+                    "\nVaccine brand : " + A.getVaccine(x) + 
+                    "\n---------------------------------------------------"));
 
 
             }
